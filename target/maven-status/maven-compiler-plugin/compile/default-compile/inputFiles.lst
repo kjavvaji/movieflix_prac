@@ -1,0 +1,17 @@
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/repository/UserRepository.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/exception/EntityNotFoundException.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/service/UserService.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/service/UserServiceImp.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/exception/EntityAlreadyExistException.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/AppInitializer.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/JPAConfig.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/repository/MovieRepositoryImp.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/controller/UserController.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/repository/UserRepositoryImp.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/repository/MovieRepository.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/entity/Movie.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/service/MovieServiceImp.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/controller/MovieController.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/entity/User.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/service/MovieService.java
+/Users/koteswararaojavvaji/Documents/workspace/movieflix/src/main/java/io/egen/app/AppConfig.java
